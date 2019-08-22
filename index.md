@@ -1,0 +1,69 @@
+---
+layout: default
+title: Home page
+---
+
+# Welcome to CS 101, Fall 2019!
+
+This is the website for CS 101, Fall 2019 at York College.
+All information about the course will be posted here.
+
+## Links
+
+<div class="multicol">
+<div>
+<ul class="multicol-links">
+  <li><a href="syllabus.html">Syllabus</a></li>
+  <li><a href="schedule.html">Schedule</a></li>
+  <li><a href="study.html">Research study</a></li>
+  <li><a href="success.html">How to succeed in CS 101</a></li>
+  <li><a href="assign/index.html">Assignments</a></li>
+  <li><a href="labs/index.html">Labs</a></li>
+  <li><a href="resources.html">Resources</a></li>
+  <li><a href="tutoring.html">Tutoring</a></li>
+</ul>
+</div>
+<div>
+<ul class="multicol-links">
+  <li><a href="https://cs.ycp.edu/cloudcoder">CloudCoder (practice problems)</a></li>
+  <li><a href="https://cs.ycp.edu/marmoset">Marmoset (assignment and lab submission)</a></li>
+  <li><a href="submitting.html">Submitting labs and assignments</a></li>
+  <li><a href="refcard.pdf">Reference card [PDF]</a></li>
+  <li><a href="design-template.pdf">Design template [PDF]</a></li>
+  <li><a href="design/index.html">Design information</a></li>
+  <li><a href="practice/index.html">Practice exams</a></li>
+  <li><a href="examples/index.html">Code examples</a></li>
+</ul>
+</div>
+</div>
+
+## News
+* **Aug 28** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
+
+<!-- future news - dates need updated for the Fall
+* **Updated Feb 5** &mdash; The design for [Assignment 1](assign/assign01.html) is due in class
+* **Updated Feb 8** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM
+* **Feb 14** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 1** is due in class
+* **Feb 19** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 1** is due by 11:59PM
+* **Feb 21** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due in class
+* **Feb 26** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
+* **Feb 28** &mdash; **EXAM 1**
+* **Mar 5, 7** &mdash; **NO CLASS - WINTER BREAK**
+* **Mar 19** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
+* **Mar 21** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due in class
+* **Mar 26** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
+* **Apr 3** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
+* **Apr 4** &mdash; **EXAM 2**
+* **Apr 9** &mdash; **Makeup EXAM 2**
+* **Apr 18** &mdash; **NO CLASS - SPRING BREAK**
+* **Apr 23** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
+* **May 2** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM
+* **May 9** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 11:59PM
+* **May 9** &mdash; **EXAM 3**
+* **May 14 (102), 16 (101,103) &mdash; FINAL EXAM**
+
+-->
+
+<!-- vim:set wrap: -->
+<!-- vim:set linebreak: -->
+<!-- vim:set nolist: -->
