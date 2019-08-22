@@ -9,7 +9,7 @@ Student tutors will be available both in class (during lab activities) and in ev
 
 ## Asking Questions
 
-The tutors' job is to help students in the course learn the material.  Please do take advantage of the tutoring when you need help, but always be aware that it is your responsibility to have done all relevant readings, labs, and CloudCoder exercises before you ask the tutors for assistance.  Be sure to read the [How to ask for help](http://faculty.ycp.edu/~dhovemey/askingForHelp.html) document.
+The tutors' job is to help students in the course learn the material.  Please do take advantage of the tutoring when you need help, but always be aware that it is your responsibility to have done all relevant readings, labs, and CloudCoder exercises before you ask the tutors for assistance.  Be sure to read the [How to ask for help](HotToAskForHelp.html) document.
 
 ## When you ask for help with code
 

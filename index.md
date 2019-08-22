@@ -15,7 +15,6 @@ All information about the course will be posted here.
 <ul class="multicol-links">
   <li><a href="syllabus.html">Syllabus</a></li>
   <li><a href="schedule.html">Schedule</a></li>
-  <li><a href="study.html">Research study</a></li>
   <li><a href="success.html">How to succeed in CS 101</a></li>
   <li><a href="assign/index.html">Assignments</a></li>
   <li><a href="labs/index.html">Labs</a></li>
@@ -38,7 +37,7 @@ All information about the course will be posted here.
 </div>
 
 ## News
-* **Aug 28** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
+* **Aug 28** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
 
 <!-- future news - dates need updated for the Fall
 * **Updated Feb 5** &mdash; The design for [Assignment 1](assign/assign01.html) is due in class
