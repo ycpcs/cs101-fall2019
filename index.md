@@ -31,7 +31,11 @@ All information about the course will be posted here.
   <li><a href="design-template.pdf">Design template [PDF]</a></li>
   <li><a href="design/index.html">Design information</a></li>
   <li><a href="practice/index.html">Practice exams</a></li>
+
+<!-- 
   <li><a href="examples/index.html">Code examples</a></li>
+  
+-->  
 </ul>
 </div>
 </div>
