@@ -7,7 +7,9 @@ This page links to homework assignments.
 
 Designs are due (hard copy) at the beginning of class on the indicated day.
 
-Code is due (<a href="../submitting.html">submitted to Marmoset</a>) by 11:59 PM on the indicated day.  NOTE: It is my policy to NOT assess a late penalty if the assignment is submitted by 7:00 AM the next morning.
+Code is due (<a href="../submitting.html">submitted to Marmoset</a>) by 11:59 PM on the indicated day.
+
+**NOTE:** It is my policy to NOT assess a late penalty if you have submitted your assignment to Marmoset by 7:00 AM the next morning.
 
 Assignment | File | Due date(s)
 ---------- | ---- | -----------
@@ -16,7 +18,7 @@ Assignment | File | Due date(s)
 [Assignment 3: Dominoes](assign03.html) | [CS101\_Assign03.zip](CS101_Assign03.zip) | MS1 Code: Thurs, Oct 10th<br>MS2 Design: Fri, Oct 11th<br>MS2 Code: Thurs, Oct 18th
 [Assignment 4: Roulette](assign04.html) | [CS101\_Assign04.zip](CS101_Assign04.zip) | Code: Thurs, Oct 24th
 [Assignment 5: Struct Exercises](assign05.html) | n/a | Thurs, Nov 14th
-[Assignment 6: Chomp! Chomp! Chomp!](assign06.html) | [CS101\_Assign06.zip](CS101_Assign06.zip) | MS1 Code: Thur, Nov 28th<br>MS2 Code: Thurs, Dec 5th
+[Assignment 6: Chomp! Chomp! Chomp!](assign06.html) | [CS101\_Assign06.zip](CS101_Assign06.zip) | MS1 Code: Weds, Nov 27th<br>MS2 Code: Thurs, Dec 5th
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
