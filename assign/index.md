@@ -9,7 +9,7 @@ Designs are due (hard copy) at the beginning of class on the indicated day.
 
 Code is due (<a href="../submitting.html">submitted to Marmoset</a>) by 11:59 PM on the indicated day.
 
-**NOTE:** It is my policy to NOT assess a late penalty if you have submitted your assignment to Marmoset by 7:00 AM the next morning.
+**NOTE:** It is my policy to NOT assess a late penalty if you made your final assignment submission to Marmoset by 7:00 AM the next morning.
 
 Assignment | File | Due date(s)
 ---------- | ---- | -----------
