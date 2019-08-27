@@ -18,7 +18,7 @@ Assignment | File | Due date(s)
 [Assignment 3: Dominoes](assign03.html) | [CS101\_Assign03.zip](CS101_Assign03.zip) | MS1 Code: Thurs, Oct 10th<br>MS2 Design: Fri, Oct 11th<br>MS2 Code: Thurs, Oct 18th
 [Assignment 4: Roulette](assign04.html) | [CS101\_Assign04.zip](CS101_Assign04.zip) | Code: Thurs, Oct 24th
 [Assignment 5: Struct Exercises](assign05.html) | n/a | Thurs, Nov 14th
-[Assignment 6: Chomp! Chomp! Chomp!](assign06.html) | [CS101\_Assign06.zip](CS101_Assign06.zip) | MS1 Code: Weds, Nov 27th<br>MS2 Code: Thurs, Dec 5th
+[Assignment 6: Chomp! Chomp! Chomp!](assign06.html) | [CS101\_Assign06.zip](CS101_Assign06.zip) | MS1 Code: Tues, Nov 26th<br>MS2 Code: Thurs, Dec 5th
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
