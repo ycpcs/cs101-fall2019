@@ -129,7 +129,7 @@ Students will work on labs during most class meetings.
 To receive credit for a lab, you must:
 
 * Get a sign-off for completing the lab's design artifact; make sure you have this at the beginning of class on the day we work on the lab
-* Get a sign-off on the completed program; full credit if you get this sign off by the end of the *next* class (after the day we work on the lab), 80% of full credit if you get the sign-off before the next exam
+* Get a sign-off on the completed program; full credit if you get this sign off by the end of the *next* class (after the day we work on the lab), 80% of full credit if you get the sign-off **by the last class before the next exam**
 
 
 ### Attendance and participation

@@ -5,7 +5,7 @@ title: "Labs"
 
 This page lists the lab activities.
 
-Labs are worth 10% of your course grade.  To receive credit for a lab, you must get a sign-off on the completed program; full credit if you get this sign off by the end of the *next* class (after the day we work on the lab), 80% of full credit if you get the sign off before the next exam
+Labs are worth 10% of your course grade.  To receive credit for a lab, you must get a sign-off on the completed program; full credit if you get this sign off by the end of the *next* class (after the day we work on the lab), 80% of full credit if you get the sign off **by the last class before the next exam.**
 
 > Date | Lab | File
 > ---- | --- | ----
