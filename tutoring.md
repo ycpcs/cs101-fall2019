@@ -23,10 +23,9 @@ Once you have demonstrated that you have a viable design and strategy for the pr
 
 The in-class tutors are:
 
-* Section 101 (Hake - KEC123),    8:00-9:15):  Alyssa McDevitt, Madison Tibbett 
-* Section 102 (Snyder - KEC119),  8:00-9:15):  Jason Constantine, Patrick Nelson
-* Section 103 (Snyder - KEC119), 10:00-11:15): Joel Horne(W,F), Josh Gross(W), Andrew Georgiou(F)
-
+* Section 101 (Snyder - KEC119),  8:00-9:15):  Jason Constantine, Patrick Nelson
+* Section 102 (Snyder - KEC119), 10:00-11:15): Joel Horne(W,F), Josh Gross(W), Andrew Georgiou(F)
+* Section 103 (Hake - KEC123),    8:00-9:15):  Alyssa McDevitt, Madison Tibbett 
 
 ## Evening sessions
 
