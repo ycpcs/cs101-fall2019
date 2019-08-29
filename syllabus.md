@@ -8,7 +8,7 @@ CS 101 - Fundamentals of Computer Science I
 
 **Fall 2019**
 
-Staff: 
+Instructors: 
 
 > Section(s) | Instructor | Office hours
 > ---------- | ---------- | ------------
