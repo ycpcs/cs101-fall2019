@@ -41,11 +41,11 @@ All information about the course will be posted here.
 </div>
 
 ## News
-* **Aug 28** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
+* **Wednesday, Aug 28** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
+* **Friday, Sep 6** &mdash; The design for [Assignment 1](assign/assign01.html) is due at the beginning of class 
+* **Thursday, Sep 12** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM
 
 <!-- future news - dates need updated for the Fall
-* **Updated Feb 5** &mdash; The design for [Assignment 1](assign/assign01.html) is due in class
-* **Updated Feb 8** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM
 * **Feb 14** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 1** is due in class
 * **Feb 19** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 1** is due by 11:59PM
 * **Feb 21** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due in class
