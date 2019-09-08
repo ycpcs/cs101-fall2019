@@ -44,26 +44,25 @@ All information about the course will be posted here.
 * **Wednesday, Aug 28** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
 * **Friday, Sep 6** &mdash; The design for [Assignment 1](assign/assign01.html) is due at the beginning of class 
 * **Thursday, Sep 12** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM
+* **Friday, Sep 13** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 1** is due in class
+* **Thursday, Sep 19** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 1** is due by 11:59PM
+* **Friday, Sep 20** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due in class
+* **Saturday, Sep 28** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
+* **Friday, Oct 4** &mdash; **EXAM 1**
 
 <!-- future news - dates need updated for the Fall
-* **Feb 14** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 1** is due in class
-* **Feb 19** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 1** is due by 11:59PM
-* **Feb 21** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due in class
-* **Feb 26** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
-* **Feb 28** &mdash; **EXAM 1**
-* **Mar 5, 7** &mdash; **NO CLASS - WINTER BREAK**
-* **Mar 19** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
-* **Mar 21** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due in class
-* **Mar 26** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
-* **Apr 3** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
-* **Apr 4** &mdash; **EXAM 2**
-* **Apr 9** &mdash; **Makeup EXAM 2**
-* **Apr 18** &mdash; **NO CLASS - SPRING BREAK**
-* **Apr 23** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
-* **May 2** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM
-* **May 9** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 11:59PM
-* **May 9** &mdash; **EXAM 3**
-* **May 14 (102), 16 (101,103) &mdash; FINAL EXAM**
+* **Thursday, Oct 10** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
+* **Friday, Oct 11** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due in class
+* **Thursday, Oct 18** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
+* **Thursday, Oct 24** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
+* **Friday, Oct 30** &mdash; **EXAM 2**
+* **Thursday, Nov 14** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
+* **Tuesday, Nov 26** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM
+* **Wednesday, Nov 27** &mdash; **NO CLASS - THANKSGIVING BREAK**
+* **Friday, Nov 29**  &mdash; **NO CLASS - THANKSGIVING BREAK**
+* **Thursday, Dec 5** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 11:59PM
+* **Friday, Dec 5** &mdash; **EXAM 3**
+* **Friday, Dec 12** &mdash; **FINAL EXAM**
 
 -->
 
