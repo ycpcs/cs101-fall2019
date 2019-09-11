@@ -42,8 +42,8 @@ Nov 20 | [Lecture 14: Arrays and functions](lectures/lecture14.html)<br>Chapter 
 Nov 22 | [Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
 Nov 27 | **No Class - Thanksgiving Break** | |
 Nov 29 | **No Class - Thanksgiving Break** | |
-Dec 3  | [Lecture 20: Arrays of structures](lectures/lecture20.html) cont. <br /> **Exam 3 review** | &mdash; | &mdash;
-Dec 5 | **Exam 3** |  |
+Dec 4  | [Lecture 20: Arrays of structures](lectures/lecture20.html) cont. <br /> **Exam 3 review** | &mdash; | &mdash;
+Dec 6 | **Exam 3** |  |
 
 
 <!-- vim:set wrap: -->
