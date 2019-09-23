@@ -46,8 +46,8 @@ All information about the course will be posted here.
 * **Thursday, Sep 12** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM
 * **Friday, Sep 13** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 1** is due in class
 * **Thursday, Sep 19** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 1** is due by 11:59PM
-* **Friday, Sep 20** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due in class
-* **Saturday, Sep 28** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
+* **Wednesday, Sep 25** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due at the beginning of class (I will collect them, scan them, and hand them back)
+* **Wednesday, Oct 2** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
 * **Friday, Oct 4** &mdash; **EXAM 1**
 
 <!-- future news - dates need updated for the Fall
