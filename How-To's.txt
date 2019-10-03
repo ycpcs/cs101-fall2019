@@ -1,0 +1,46 @@
+CS101: How To's
+
+Create new semester:
+	Create new course semester repo in GitHub under YCPCS community.  Create README, and .gitignore.
+	Clone and then start copying folders from the semester you want to copy.
+	You'll have to change the syllabus, schedule dates, lab dates, and assign dates.
+
+Create CloudCoder accounts
+	1) Create course: CloudCoder->Admin->Create course
+	2) Add sections and instructors
+	3) Add students: CloudCoder->Manage users->Bulk User Registration
+		can use modified class roster (username firstname lastname email password)
+	4) Save and send passwords to new students (this is a DaveH script)
+
+Create Marmoset accounts
+	1) Create course: Marmoset->Admin->Create course
+	2) Add students: Marmoset-> <select desired course> -> Bulk registration from YCP roster
+		upload class roster desired section (specify section)
+		copy username and password list as it is generated for each section
+		use a DaveH script to email to users - only new users will get their password sent
+	3) Add projects (labs, assigns, exams): Marmoset-> <select desired course> ->Create project
+		first entry is project submission name (do not include the ':' that you see in the project view, Marmoset generates this
+		
+Update CloudCoder exercise course #'s and ID #'s in schedule (open "md" files in text editor)
+	The ID's have likely changed by having 100 added to them.  You can find the IDs in CloudCouder: CloudCoder->Manage exercises (the ID and name are cross-referenced
+	
+	I did a search and replace in the various "md" files using "#exercise?c=19" and replaced with "#exercise?c=23" for course #'s.
+	
+	Then search for "#exercise?c=23,p=" and you get each problem ID #.  Add 100 to those #'s - doublecheck against the CloudCoder cross-reference shown above.
+	
+	Affected files: schedule.md, labs/index.md, assign/index.md, any labs that use CloudCoder (labs 3, 7, 12)
+	
+Update lab, assign, and exam project zip files for semester:
+	Use DaveH updateSkelton.pl script to change semester in MakeFile in labs and assigns (2 separate calls).
+
+There was a change to submitToMarmoset.pl to address a YCP IT firewall issue (for Fall2019):
+	That file appears in every project zip (lab, assign, and exam - including practice exams).  submitToMarmoset.pl was updated for all projects for the Fall 2019 course website.
+
+Create exam zip files:
+	Run zip from Cygwin command line.  TO create a zip called "cs101-exam01-101.zip", run zip from the folder that contains the unzipped project folder.  "-r" is to zip all of the subfolders and contents within CS101_Exam1 folder.  That will be the exam project folder that is unzipped for the students.  You can rename the zip file to wahtever you want, but creating separate submissions path for each section requires creating separate zip files with different MakeFile contents.  The MakeFile specifies the semester and the Marmoset project name.  If you want each section to have its own exam archive - you'll need to change the MakeFiles to reflect the separate Marmoset project names.
+	
+Create exams:
+   The exams are in Latex.  Edit in text editor, or use OverLeaf for WYSIWYG.  In Cygwin command line, use pdflatex to convert to PDF.  I usualy run twice to get rid of warnings.  Also, remember to print written and programming portions separately, so that they get stapled separately.  And print the reference sheet - 3 handouts for exams.
+	
+	zip -r cs101-exam01-101 ./CS101_Exam1 
+	
