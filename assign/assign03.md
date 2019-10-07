@@ -6,10 +6,10 @@ title: "Assignment 3: Falling Dominoes"
 **Due dates**:
 
 * Milestone 1:
-    * Code due: **Thursday, October 10th** by 11:59 PM
+    * Code due: **Friday, October 11th** by 11:59 PM
 * Milestone 2:
     * Design due: **Friday, October 11th** in class
-    * Code due: **Thursday, October 18th** by 11:59 PM
+    * Code due: **Friday, October 18th** by 11:59 PM
 
 Getting Started
 ===============

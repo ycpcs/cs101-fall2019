@@ -49,20 +49,20 @@ All information about the course will be posted here.
 * **Wednesday, Sep 25** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due at the beginning of class (I will collect them, scan them, and hand them back)
 * **Wednesday, Oct 2** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
 * **Friday, Oct 4** &mdash; **EXAM 1**
-* **Thursday, Oct 10** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
+* **Friday, Oct 11** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
 * **Friday, Oct 11** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due in class
 * **Thursday, Oct 18** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
 
 <!-- future news - dates need updated for the Fall
-* **Thursday, Oct 24** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
-* **Friday, Oct 30** &mdash; **EXAM 2**
-* **Thursday, Nov 14** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
+* **Friday, Oct 25** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
+* **Friday, Nov 1** &mdash; **EXAM 2**
+* **Friday, Nov 15** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
 * **Tuesday, Nov 26** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM
 * **Wednesday, Nov 27** &mdash; **NO CLASS - THANKSGIVING BREAK**
 * **Friday, Nov 29**  &mdash; **NO CLASS - THANKSGIVING BREAK**
-* **Thursday, Dec 5** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 11:59PM
-* **Friday, Dec 5** &mdash; **EXAM 3**
-* **Friday, Dec 12** &mdash; **FINAL EXAM**
+* **Friday, Dec 6** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 11:59PM
+* **Friday, Dec 6** &mdash; **EXAM 3**
+* **Friday, Dec 13** &mdash; **FINAL EXAM**
 
 -->
 
