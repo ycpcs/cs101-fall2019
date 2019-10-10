@@ -142,7 +142,7 @@ Use an array of integer values to store the state of each domino and a counter t
 
 ### Deliverables for Milestone 1
 
-The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Thursday, October 10th**.
+The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Friday, October 11th**.
 
 ## Milestone 2
 
@@ -227,7 +227,7 @@ Get code working to simulate a single time step before working on multiple time 
 
 The [design artifact](../design-template.pdf) for Milestone 2 is due at the beginning class on **Friday, October 11th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
 
-The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Thursday, October 18th**.
+The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Friday, October 18th**.
 
 Grading
 =======
