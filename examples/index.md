@@ -7,6 +7,8 @@ This page links to code examples presented in class.
 
 Date | Code example | Description
 ---- | ------------ | -----------
+Oct 25 | [rectangles](rectangles.zip) | read width, height and print rectangles
+
 <!-- change these dates as necessary, and if examples are used
 Aug 28 | [birthday.cpp](birthday.cpp) | read in and print out user's birthday
 Sep 4  | [average.cpp](average.cpp) | compute average of four numbers

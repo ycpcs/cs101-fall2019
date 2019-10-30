@@ -1,4 +1,0 @@
-example - Copy.cpp
-example.cpp
-exampleFunction.cpp
-Makefile

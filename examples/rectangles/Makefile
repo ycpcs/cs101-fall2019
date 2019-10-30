@@ -5,8 +5,8 @@
 
 SUBMIT_URL = https://cs.ycp.edu/marmoset/bluej/SubmitProjectViaBlueJSubmitter
 COURSE_NAME = CS 101
-SEMESTER = Summer 2015
-PROJECT_NUMBER = example
+SEMESTER = Fall 2019
+PROJECT_NUMBER = rectangles
 
 CXXFLAGS = -g -Wall
 
