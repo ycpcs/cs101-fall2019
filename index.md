@@ -54,6 +54,7 @@ All information about the course will be posted here.
 * **Thursday, Oct 31** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
 * **Friday, Nov 1** &mdash; **EXAM 2**
 * **Friday, Nov 15** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
+
 <!-- future news - dates need updated for the Fall
 
 * **Tuesday, Nov 26** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM
