@@ -64,11 +64,6 @@ All information about the course will be posted here.
 * **Friday, Dec 6** &mdash; **EXAM 3**
 * **Friday, Dec 13** &mdash; **FINAL EXAM**
 
-
-
-
-
-
 -->
 
 <!-- vim:set wrap: -->
