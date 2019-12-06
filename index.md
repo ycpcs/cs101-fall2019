@@ -57,9 +57,9 @@ All information about the course will be posted here.
 * **Tuesday, Nov 26** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM
 * **Wednesday, Nov 27** &mdash; **NO CLASS - THANKSGIVING BREAK**
 * **Friday, Nov 29**  &mdash; **NO CLASS - THANKSGIVING BREAK**
-* **Friday, Dec 6** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 11:59PM
 * **Friday, Dec 6** &mdash; **EXAM 3**
-* **Sunday, Dec 8** &mdash; Any missing or incomplete assignments must be submitted to [Marmoset](https://cs.ycp.edu/marmoset) by **Sunday, Dec 8th, by 11:59pm at the very latest.** The [Syllabus](syllabus.html) requires a good faith attempt to be submitted for each assignment as a prerequisite for receiving a passing (2.0 or higher) grade in the course.
+* **Monday, Dec 9** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 2** is due by 7:00am.  10% extra credit will be awarded for meeting the orginal due date (Saturday, 12-7-19 by 7:00am)
+* **Monday, Dec 9** &mdash; Any missing or incomplete assignments must be submitted to [Marmoset](https://cs.ycp.edu/marmoset) by **Monday, Dec 9th, by 7:00am at the very latest.** The [Syllabus](syllabus.html) requires a good faith attempt to be submitted for each assignment as a prerequisite for receiving a passing (2.0 or higher) grade in the course.
 * **Friday, Dec 13** &mdash; **FINAL EXAM**, sections 101 & 103 from 8:00am to 10:00am, section 102 from 10:15am to 12:15pm.
 
 <!-- future news - dates need updated for the Fall
