@@ -6,15 +6,15 @@ title: Syllabus
 CS 101 - Fundamentals of Computer Science I
 ===========================================
 
-**Fall 2019**
+**Fall 2021**
 
 Instructors: 
 
 > Section(s) | Instructor | Office hours
 > ---------- | ---------- | ------------
-> 101  (8:00am -  9:15am KEC119) | Robin Snyder <rsnyder9@ycp.edu> KEC 115 (815-6547) | T,R 12:30-1:30pm, W,F: 11:30am-1:30pm
-> 102 (10:00am - 11:15am KEC119) | Robin Snyder <rsnyder9@ycp.edu> KEC 115 (815-6547) | T,R 12:30-1:30pm, W,F: 11:30am-1:30pm
-> 103  (8:00am -  9:15am KEC123) | Donald Hake  <djhake2@ycp.edu>  KEC 137 (815-6587) | W,F 9:15-10am, 11:15-Noon (KEC123), W 2:00-4:00, F 2:00-3:00 (KEC137), and by appointment
+> 101  (8:00am -  9:15am KEC119) | Krishna Kambhampaty <kkambhampaty@ycp.edu> KEC 115 (815-6547) | T,R 12:15-1:15pm, W,F: 9:30am-11:30am
+> 102 (10:00am - 11:15am KEC119) | Deepti Jindal <djindal@ycp.edu> KEC 115 (815-6547) | T,R 12:30-1:30pm, W,F: 11:30am-1:30pm
+> 103  (11:00am -  12:15pm KEC119) | Krishna Kambhampaty  <kkambhampaty@ycp@ycp.edu>  KEC 115 (815-6587) | T,R 12:15-1:15pm, W,F: 9:30am-11:30am, and by appointment
 
 Course description
 ------------------

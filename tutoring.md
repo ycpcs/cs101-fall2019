@@ -19,6 +19,7 @@ If there are problems with your design or strategy, the tutors will help you fix
 
 Once you have demonstrated that you have a viable design and strategy for the problem you're working on, the tutors will be glad to help you with your code.
 
+<!--
 ## In class
 
 The in-class tutors are:
